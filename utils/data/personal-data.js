@@ -9,9 +9,10 @@ export const personalData = {
   github: 'https://github.com/shikharrrajat',
   facebook: '',
   linkedIn: 'https://www.linkedin.com/in/shikhar1408/',
+  codeforces:'https://codeforces.com/profile/shikhar_gautam',
   twitter: 'https://x.com/Shikhar_1408',
   stackOverflow: 'https://stackoverflow.com/users/21651107/shikhar',
   leetcode: "https://leetcode.com/u/shikharsharma1408/",
   devUsername: "shikhar1408",
-  resume: "https://drive.google.com/file/d/1vRiCzdF62n4IskyYBGsAR7sdy2ac8R38/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1Q21Oa2QtBPOilW6EV8Au4P9a427RDD0B/view?usp=drive_link"
 }
