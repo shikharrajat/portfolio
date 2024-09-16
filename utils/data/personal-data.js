@@ -6,7 +6,7 @@ export const personalData = {
   email: 'shikharsharma0108@gmail.com',
   phone: '+918769929964',
   address: '321, Kapili Hostel, IIT Guwahati, Guwahati, Assam',
-  github: 'https://github.com/shikharrrajat',
+  github: 'https://github.com/shikharrajat',
   facebook: '',
   linkedIn: 'https://www.linkedin.com/in/shikhar1408/',
   codeforces:'https://codeforces.com/profile/shikhar_gautam',
